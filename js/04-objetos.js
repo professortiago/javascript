@@ -102,5 +102,3 @@ console.log(`Referente ao pedido ${pedido.codigo}, os produtos foram comprados e
 console.log(`Produto 1: ${pedido.produtos[0]}`);
 console.log(`Produto 2: ${pedido.produtos[1]}`);
 console.log(`Produto 3: ${pedido.produtos[2]}`);
-
-

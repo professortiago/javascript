@@ -37,4 +37,3 @@ const linguagens = [
 console.log(linguagens[0][1]); // CSS3
 console.log(linguagens[1][3]); // ASP.Net
 console.log(linguagens[1][0][2]); // PHP 8.2
-
